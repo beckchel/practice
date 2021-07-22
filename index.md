@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Chelsea Beck
 
-You can use the [editor on GitHub](https://github.com/beckchel/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ *Data analyst by day. Artist by afternoon. Asleep by night.*
+ 
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beckchel/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table style="padding:10px">
+  <tr>
+    <td> 
+         <img src="https://user-images.githubusercontent.com/32271415/126639084-6b5ee29d-e73f-4242-bcd8-19756ebd7d0c.png"  alt="1"  ></td>
+      
+ <td><img src="https://user-images.githubusercontent.com/32271415/126640482-968a320f-310e-4fcb-a903-d8980d23141d.png" align="right" alt="2"></td>
+   <td><img src="https://user-images.githubusercontent.com/32271415/126639243-3db9a6bb-8d7c-47b9-b588-69a98ca4b84f.png" alt="3" ></td>
+    
+ 
+  </tr>
+</table>
